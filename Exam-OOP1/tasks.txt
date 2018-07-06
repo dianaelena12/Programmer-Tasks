@@ -1,0 +1,10 @@
+1|Resolve task 1,2,3|In progress
+2|Take a 10|In progress
+4|Exit|Closed
+5|Remove a task|In progress
+0|Create a GUI|Open
+0|Remake the last laboratory|Open
+3|Solve bug|In progress
+0|Create a new script|Open
+3|Create a repository|Closed
+2|Solve another bug|Closed
